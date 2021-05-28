@@ -6,6 +6,7 @@ import {
 	Image,
 	Button,
 	TouchableOpacity,
+	Flatlist,
 } from "react-native";
 import {
 	widthPercentageToDP as wp,
